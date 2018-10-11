@@ -1,0 +1,15 @@
+img {
+     float: left;
+}
+
+#rcorners1 {
+    border-radius: 50px;
+    background: rgba(13, 224, 214, 0.678);
+    padding: 30px; 
+    width: 500px;
+    height: 125px;    
+}
+
+button {
+    font-size: 77pt;
+}
